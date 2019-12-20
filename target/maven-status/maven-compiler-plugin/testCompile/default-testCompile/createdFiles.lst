@@ -1,0 +1,5 @@
+edumall\steps\serenity\HomeStep.class
+edumall\steps\serenity\LoginFaceSteps.class
+edumall\pages\HomePage.class
+edumall\features\test\LoginFace.class
+edumall\pages\LoginFacebookPage.class
